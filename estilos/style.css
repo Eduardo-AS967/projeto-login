@@ -13,15 +13,11 @@
     box-sizing: border-box;
 }
 body, html {
-    background-color:  #5f2c82;
-    height: ;
-    width: ;
-
+    background-color:  #5f2c82
 }
 main {
     position: relative;
     height: 100vh;
-    width: ;
 }
 
 section#login {
